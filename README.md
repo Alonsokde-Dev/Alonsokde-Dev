@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá, eu sou Alonso.
 
-<!--
-**Alonsokde-Dev/Alonsokde-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estou retomando meus estudos em **Python**  
+📚 Iniciante, focado em prática e projetos reais  
+🚀 Objetivo: ganhar experiência e trabalhar com programação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 O que estou estudando agora
+- Python básico (revisão)
+- Lógica de programação
+- Automação de tarefas simples
+- Git e GitHub
+
+---
+
+## 📂 Projetos
+🔹 Em breve estarei adicionando projetos práticos aqui, como:
+- Scripts em Python
+- Automação simples
+- Exercícios comentados
+
+---
+
+## 📫 Contato
+- GitHub: https://github.com/Alonsokde-Dev
